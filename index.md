@@ -9,13 +9,12 @@ I am a software engineer.
 ### Technologies
 
 Expert in following technologies
-
-```markdown
+ 
 Web technologies
 
-# PHP 1
-## Javascript 2
-### Bootstrap 3
+# PHP 
+## Javascript 
+### Bootstrap 
 
 - GitOps
 - CI/CD
@@ -29,11 +28,6 @@ Web technologies
 2. Slack
 
 **Database** and _MySql_ and `PostgreSQL`  
-
- 
-```
-
- 
 
 ### Wordpress
 
