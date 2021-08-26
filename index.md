@@ -9,24 +9,24 @@ I am a software engineer.
 Expert in following technologies
 
 ```markdown
-Syntax highlighted code block
+Web technologies
 
-# Header 1
-## Header 2
-### Header 3
+# PHP 1
+## Javascript 2
+### Bootstrap 3
 
-- Bulleted
-- List
+- GitOps
+- CI/CD
 
-1. Numbered
-2. List
+1. Jira
+2. Slack
 
-**Bold** and _Italic_ and `Code` text
+**Database** and _MySql_ and `PostgreSQL`  
 
-[Link](url) and ![Image](src)
+[Link](https://ahirekanif.github.io/kanifnath/) and ![Image](https://ahirekanif.github.io/kanifnath/logo.jpg)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ 
 
 ### Wordpress
 
