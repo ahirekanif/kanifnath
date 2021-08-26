@@ -1,8 +1,9 @@
-## Welcome to Kanifnath Ahire Blog
+## Welcome to [Kanifnath](https://ahirekanif.github.io/kanifnath/) Ahire Blog
 
 You can see my personal information in this page.
 
 I am a software engineer.
+
 
 ### Technologies
 
