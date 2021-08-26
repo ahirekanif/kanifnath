@@ -17,6 +17,11 @@ Web technologies
 
 - GitOps
 - CI/CD
+- Wordpress
+- CodeIgniter
+- Laravel
+- Angular
+- Core Php
 
 1. Jira
 2. Slack
