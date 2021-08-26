@@ -4,6 +4,7 @@ You can see my personal information in this page.
 
 I am a software engineer.
 
+![Logo](https://ahirekanif.github.io/kanifnath/samplelogo.jpg)
 
 ### Technologies
 
@@ -29,7 +30,7 @@ Web technologies
 
 **Database** and _MySql_ and `PostgreSQL`  
 
-[Link](https://ahirekanif.github.io/kanifnath/) and ![Image](https://ahirekanif.github.io/kanifnath/logo.jpg)
+ 
 ```
 
  
