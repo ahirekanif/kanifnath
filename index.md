@@ -1,12 +1,12 @@
 ## Welcome to Kanifnath Ahire Blog
 
-You can use the [editor on GitHub](https://github.com/ahirekanif/kanifnath/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can see my personal information in this page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a software engineer.
 
-### Markdown
+### Technologies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Expert in following technologies
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +28,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Wordpress
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahirekanif/kanifnath/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+All versions of wordpress with woocommerce and many more plugins 
 
-### Support or Contact
+### CodeIgniter
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Codeigniter php framework 
