@@ -14,12 +14,3 @@ jobs:
         ftp-server: ${{ secrets.FTP_HOST }}
         ftp-username: ${{ secrets.FTP_USERNAME }}
         ftp-password: ${{ secrets.FTP_PASSWORD }}
-        
-        
-        - name: 'Deploy to UAT'
-  uses: januszmarcinik/ftp-deploy@v1
-  with:
-    server: ${{ secrets.FTP_HOST }}
-    user: ${{ secrets.FTP_USERNAME }}
-    password: ${{ secrets.FTP_PASSWORD }}
-    localRoot: "dist"
